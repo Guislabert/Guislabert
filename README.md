@@ -36,4 +36,4 @@ Fine-tuning and evaluating open models (Qwen3, Llama) on curated Chinese content
 
 ---
 
-<p align="center"><sub><a href="https://caurium.tech">caurium.tech</a> · <a href="mailto:210294947+Guislabert@users.noreply.github.com">210294947+Guislabert@users.noreply.github.com</a></sub></p>
+<p align="center"><sub><a href="https://caurium.tech">caurium.tech</a> · work with me: open an issue on any repo above</sub></p>
